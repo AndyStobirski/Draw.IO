@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T14:24:19.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" version="15.2.9" etag="DyWpoKs7lBmyLs-JPtq4" type="github"><diagram id="Y0NiAx50SwEWYuFAaub7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-18T14:39:56.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="yCh5IW6pJcJr6ldRji0h" version="15.2.9" type="github">
+  <diagram id="Y0NiAx50SwEWYuFAaub7" name="Page-1">
+    <mxGraphModel dx="1273" dy="769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TNpdas_gA7QrpboJuXEp-3" value="Main.jsx" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="190" y="50" width="136" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TNpdas_gA7QrpboJuXEp-4" value="SelectData.jsx&amp;nbsp;&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="30" y="300" width="136" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TNpdas_gA7QrpboJuXEp-5" value="CleanData.jsx&amp;nbsp;&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="198" y="300" width="136" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TNpdas_gA7QrpboJuXEp-6" value="ViewData.jsx" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="370" y="300" width="136" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="TNpdas_gA7QrpboJuXEp-8" value="History.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TNpdas_gA7QrpboJuXEp-11" value="ExportModal.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="380" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TNpdas_gA7QrpboJuXEp-12" value="History.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="340" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TNpdas_gA7QrpboJuXEp-16" value="History.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="340" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TNpdas_gA7QrpboJuXEp-18" value="History.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="340" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TNpdas_gA7QrpboJuXEp-19" value="VisualiseModal.jsx" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="384.5" y="420" width="112" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TNpdas_gA7QrpboJuXEp-20" value="" style="endArrow=classic;startArrow=classic;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TNpdas_gA7QrpboJuXEp-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="300" as="sourcePoint" />
+            <mxPoint x="130" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TNpdas_gA7QrpboJuXEp-21" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.449;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TNpdas_gA7QrpboJuXEp-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="260" as="sourcePoint" />
+            <mxPoint x="260" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
