@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T21:41:44.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="Xgd6daQ5rZrje-vXsYzG" version="15.2.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-09-19T12:18:31.382Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="QFqjoYdEVKCuz9xVpUmT" version="15.2.9" type="github" pages="2">
   <diagram id="Y0NiAx50SwEWYuFAaub7" name="Page-1">
     <mxGraphModel dx="1103" dy="821" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="52znZT_ahXxuj6-c82qL" name="LoadData">
-    <mxGraphModel dx="1298" dy="966" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="1642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="HWktZ_V_hiQMJNvEhPxj-0" />
         <mxCell id="HWktZ_V_hiQMJNvEhPxj-1" parent="HWktZ_V_hiQMJNvEhPxj-0" />
@@ -190,21 +190,21 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HWktZ_V_hiQMJNvEhPxj-56" value="ViewData.jsx" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HWktZ_V_hiQMJNvEhPxj-1">
-          <mxGeometry x="334" y="639" width="128" height="173" as="geometry" />
+          <mxGeometry x="243" y="639" width="128" height="173" as="geometry" />
         </mxCell>
         <mxCell id="HWktZ_V_hiQMJNvEhPxj-57" value="Library: HandsOnTable" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HWktZ_V_hiQMJNvEhPxj-1">
-          <mxGeometry x="353" y="703.5" width="86" height="40" as="geometry" />
+          <mxGeometry x="262" y="703.5" width="86" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HWktZ_V_hiQMJNvEhPxj-58" value="CleanData.jsx" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HWktZ_V_hiQMJNvEhPxj-1">
-          <mxGeometry x="140" y="639" width="80" height="120" as="geometry" />
+          <mxGeometry x="49" y="639" width="80" height="120" as="geometry" />
         </mxCell>
         <mxCell id="HWktZ_V_hiQMJNvEhPxj-60" value="Refine Data" style="curved=1;endArrow=classic;html=1;" edge="1" parent="HWktZ_V_hiQMJNvEhPxj-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="332" y="637" as="sourcePoint" />
-            <mxPoint x="222" y="637" as="targetPoint" />
+            <mxPoint x="241" y="637" as="sourcePoint" />
+            <mxPoint x="131" y="637" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="302" y="617" />
-              <mxPoint x="252" y="617" />
+              <mxPoint x="211" y="617" />
+              <mxPoint x="161" y="617" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -216,14 +216,32 @@
             <mxPoint x="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HWktZ_V_hiQMJNvEhPxj-62" value="VisualisationData&lt;br&gt;.MakeData()" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HWktZ_V_hiQMJNvEhPxj-1">
-          <mxGeometry x="559" y="704.25" width="116" height="37.75" as="geometry" />
-        </mxCell>
         <mxCell id="HWktZ_V_hiQMJNvEhPxj-66" value="VisualiseModal.jsx" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HWktZ_V_hiQMJNvEhPxj-1">
-          <mxGeometry x="730" y="665" width="122" height="126" as="geometry" />
+          <mxGeometry x="665" y="637.5" width="122" height="176" as="geometry" />
+        </mxCell>
+        <mxCell id="HWktZ_V_hiQMJNvEhPxj-62" value="VisualisationData&lt;br&gt;.MakeData()" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HWktZ_V_hiQMJNvEhPxj-1">
+          <mxGeometry x="468" y="704.25" width="116" height="37.75" as="geometry" />
+        </mxCell>
+        <mxCell id="HWktZ_V_hiQMJNvEhPxj-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=default;align=right;" edge="1" parent="HWktZ_V_hiQMJNvEhPxj-1" source="HWktZ_V_hiQMJNvEhPxj-67" target="HWktZ_V_hiQMJNvEhPxj-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HWktZ_V_hiQMJNvEhPxj-67" value="Library: D3" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HWktZ_V_hiQMJNvEhPxj-1">
-          <mxGeometry x="748" y="716" width="86" height="40" as="geometry" />
+          <mxGeometry x="683" y="769.5" width="86" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="HWktZ_V_hiQMJNvEhPxj-69" value="ExportModal.jsx" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HWktZ_V_hiQMJNvEhPxj-1">
+          <mxGeometry x="242" y="871" width="130" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HWktZ_V_hiQMJNvEhPxj-70" value="Export grid data" style="endArrow=classic;html=1;fontSize=11;strokeColor=default;align=center;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="HWktZ_V_hiQMJNvEhPxj-1" source="HWktZ_V_hiQMJNvEhPxj-56" target="HWktZ_V_hiQMJNvEhPxj-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="95" y="960" as="sourcePoint" />
+            <mxPoint x="145" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HWktZ_V_hiQMJNvEhPxj-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;startArrow=classic;startFill=1;endArrow=none;endFill=0;strokeColor=default;align=right;" edge="1" parent="HWktZ_V_hiQMJNvEhPxj-1" source="HWktZ_V_hiQMJNvEhPxj-71" target="HWktZ_V_hiQMJNvEhPxj-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HWktZ_V_hiQMJNvEhPxj-71" value="DrawChart.js" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="HWktZ_V_hiQMJNvEhPxj-1">
+          <mxGeometry x="683" y="677.5" width="86" height="31" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
